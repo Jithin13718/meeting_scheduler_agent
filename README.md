@@ -24,3 +24,16 @@ Clone the repository and install dependencies:
 git clone https://github.com/<your-username>/meeting_scheduler_Agent.git
 cd meeting_scheduler_Agent
 pip install -r requirements.txt
+
+Create a .env file in the project root:
+SCALEDOWN_API_KEY=your_api_key_here
+
+Run the server:
+uvicorn app.main:app --reload
+
+Swagger UI will be available at:
+http://127.0.0.1:8000/docs
+
+
+
+
