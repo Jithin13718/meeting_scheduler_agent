@@ -35,12 +35,14 @@ Swagger UI will be available at:
 http://127.0.0.1:8000/docs
 
 ## working of agent
-Screenshot 2026-02-20 223706.png
-Screenshot 2026-02-20 223928.png
-Screenshot 2026-02-20 223947.png
-Screenshot 2026-02-20 224005.png
-Screenshot 2026-02-20 224035.png
-Screenshot 2026-02-20 224047.png
-Screenshot 2026-02-20 224057.pn
+## Screenshots
+
+![The running of server](doc/Screenshot%202026-02-20%20223706.png)
+![Api runs successfully(doc/Screenshot%202026-02-20%20223928.png)
+![](doc/Screenshot%202026-02-20%20223947.png)
+![Screenshot 2026-02-20 224005](doc/Screenshot%202026-02-20%20224005.png)
+![Screenshot 2026-02-20 224035](doc/Screenshot%202026-02-20%20224035.png)
+![Screenshot 2026-02-20 224047](doc/Screenshot%202026-02-20%20224047.png)
+![Screenshot 2026-02-20 224057](doc/Screenshot%202026-02-20%20224057.png)
 
 
