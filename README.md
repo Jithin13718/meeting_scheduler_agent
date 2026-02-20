@@ -36,13 +36,11 @@ http://127.0.0.1:8000/docs
 
 ## working of agent
 ## Screenshots
-
-[The running of server](docs/Screenshot%202026-02-20%20223706.png)
-[Api runs successfully(docs/Screenshot%202026-02-20%20223928.png)
-[](doc/Screenshot%202026-02-20%20223947.png)
-[Screenshot 2026-02-20 224005](docs/Screenshot%202026-02-20%20224005.png)
-[Screenshot 2026-02-20 224035](docs/Screenshot%202026-02-20%20224035.png)
-[Screenshot 2026-02-20 224047](docs/Screenshot%202026-02-20%20224047.png)
-[Screenshot 2026-02-20 224057](docs/Screenshot%202026-02-20%20224057.png)
-
+![Screenshot 223706](docs/screenshots/Screenshot%202026-02-20%20223706.png)
+![Screenshot 223928](docs/screenshots/Screenshot%202026-02-20%20223928.png)
+![Screenshot 223947](docs/screenshots/Screenshot%202026-02-20%20223947.png)
+![Screenshot 224005](docs/screenshots/Screenshot%202026-02-20%20224005.png)
+![Screenshot 224035](docs/screenshots/Screenshot%202026-02-20%20224035.png)
+![Screenshot 224047](docs/screenshots/Screenshot%202026-02-20%20224047.png)
+![Screenshot 224057](docs/screenshots/Screenshot%202026-02-20%20224057.png)
 
