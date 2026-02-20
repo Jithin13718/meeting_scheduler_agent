@@ -34,6 +34,13 @@ uvicorn app.main:app --reload
 Swagger UI will be available at:
 http://127.0.0.1:8000/docs
 
-
+## working of agent
+Screenshot 2026-02-20 223706.png
+Screenshot 2026-02-20 223928.png
+Screenshot 2026-02-20 223947.png
+Screenshot 2026-02-20 224005.png
+Screenshot 2026-02-20 224035.png
+Screenshot 2026-02-20 224047.png
+Screenshot 2026-02-20 224057.pn
 
 
